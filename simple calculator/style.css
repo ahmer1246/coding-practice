@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+    padding: 30px;
+    text-align: center;
+    
+}
+h1{
+    font-size: 3rem;
+}
+.secon{
+padding: 60px 0px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+align-items: center;
+background-color: crimson;
+
+}
+#ope{
+    font-size: 34px;
+    margin: 0px 20px;
+    border-style: none;
+}
+.secon input{
+    padding: 12px 30px;
+    border-radius: 6px;
+    border-style: none;
+
+}
+#btn{
+    padding: 9px 29px;
+    margin: 12px;
+    background-color: teal;
+    border-style: none;
+    border-radius: 7px;
+    color: white;
+    font-size: 20px;
+}
+#btn:hover{
+    background-color: cyan;
+    cursor: pointer;
+}
+ label{
+    font-size: 1.7rem;
+    padding-right: 33px;
+}
